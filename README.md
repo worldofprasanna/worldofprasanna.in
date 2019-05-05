@@ -6,28 +6,17 @@
 
 ## Table of Contents
 
-- [Install](#install)
-- [Usage](#usage)
-- [Maintainers](#maintainers)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Install
-
-```
-```
-
-## Usage
-
-```
-```
+- [worldofprasanna](#worldofprasanna)
+  - [Table of Contents](#table-of-contents)
+  - [Maintainers](#maintainers)
+  - [Contributing](#contributing)
+  - [License](#license)
 
 ## Maintainers
 
 [@worldofprasanna](https://github.com/worldofprasanna)
 
 ## Contributing
-
 
 
 Small note: If editing the README, please conform to the [standard-readme](https://github.com/RichardLitt/standard-readme) specification.
