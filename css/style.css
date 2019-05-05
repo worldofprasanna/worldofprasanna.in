@@ -2726,7 +2726,7 @@ h6 {
   font-family: "Roboto", sans-serif;
   max-width: 540px;
   color: #777777;
-  margin-bottom: 40px; }
+  }
 .personal_text .basic_info li {
   margin-bottom: 15px; }
   .personal_text .basic_info li a {
@@ -2749,6 +2749,12 @@ h6 {
   margin-top: 45px; }
   .personal_text .position {
     letter-spacing: 5px;
+  }
+  .personal_text .tagline{
+    background: #eee;
+    padding: 20px;
+    letter-spacing: 3px;
+    text-align: center;
   }
   .personal_text .personal_social li {
     display: inline-block;
