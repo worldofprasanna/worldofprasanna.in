@@ -4,6 +4,8 @@
 
 > Repo to hold the portfolio site
 
+This is the next version of the portfolio site using vuejs
+
 ## Table of Contents
 
 - [worldofprasanna](#worldofprasanna)
